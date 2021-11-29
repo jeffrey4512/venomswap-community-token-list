@@ -230,5 +230,13 @@
     "name": "LAZR",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x9A099b806B1d318573d8bE412C1d7Da3FB4b23E5",
+    "symbol": "DCC",
+    "name": "DarkChocoCake",
+    "decimals": 18,
+    "logoURI": "https://i.gyazo.com/0e574372cea2d4555e03cd80436fe53f.png"
   }
 ]
